@@ -1,0 +1,47 @@
+site_name: Buddhism Resource
+site_url: https://dharmarain.github.io/
+theme:
+  name: material
+  palette: 
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: Lexend
+  language: en
+  logo: assets/logo.svg
+  favicon: assents/favicon.svg
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+  plugins: 
+    - search
+    - optimize
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dharma-rain/dharmarain.github.io/
+  generator: false
+copyright:  | 
+  &copy; 2026 Dharma Rain
+
