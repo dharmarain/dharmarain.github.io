@@ -25,7 +25,7 @@ theme:
     text: Lexend
   language: en
   logo: assets/logo.svg
-  favicon: assents/favicon.svg
+  favicon: assets/favicon.svg
   features:
     - navigation.instant
     - navigation.instant.progress
