@@ -22,7 +22,8 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
   font:
-    text: Lexend
+    text: Roboto
+    code: Roboto Mono
   language: en
   logo: assets/logo.svg
   favicon: assets/favicon.svg
