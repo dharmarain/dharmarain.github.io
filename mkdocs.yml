@@ -1,5 +1,6 @@
-site_name: Buddhism Resource
+site_name: Buddhist Resources
 site_url: https://dharmarain.github.io/
+site_description: Project to gather together resources and information for Buddhists in one single place.
 theme:
   name: material
   palette: 
@@ -45,4 +46,12 @@ extra:
   generator: false
 copyright:  | 
   &copy; 2026 Dharma Rain
+
+
+nav:
+  - Home: home.md
+  - Getting started: getting-started.md
+  - Resources:
+    - Theravada: theravada-res.md
+    - Mahayana: mahayana-res.md
 
