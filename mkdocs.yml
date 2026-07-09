@@ -49,9 +49,12 @@ copyright:  |
 
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - Getting started: getting-started.md
   - Resources:
     - Theravada: theravada-res.md
     - Mahayana: mahayana-res.md
+    - Vajrayana: vajrayana-res.md
+    - Languages: language-res.md
+    - Miscellaenous: misc-res.md
 
