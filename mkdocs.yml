@@ -58,3 +58,8 @@ nav:
     - Miscellaenous: misc-res.md
 
   - Discord: discord.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption

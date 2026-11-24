@@ -1,1 +1,1 @@
-*coming soon...*
+*coming soon... see the [resources](resources.md) page for now*

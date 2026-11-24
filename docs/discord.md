@@ -19,6 +19,5 @@ We try to keep noise to a minimum so we are intentionally keeping smaller number
 
 Please note that to access the server you need to send an application and wait until someone approves you. But we generally don't reject any applications that are sent in good faith and sincerity.
 
-## Invite Link
 
-**Link:** <https://discord.gg/kvpCSqyeeS>
+[Join Server](<https://discord.gg/kvpCSqyeeS>){ .md-button }
