@@ -1,1 +1,1 @@
-*coming soon... see the [resources](resources.md) page for now*
+*coming soon... see the [resources](theravada-res.md) page for now*
