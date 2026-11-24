@@ -5,7 +5,15 @@ repo_url: https://github.com/squidfunk/mkdocs-material
 repo_name: dharmarain.github.io
 theme:
   name: material
-  palette: 
+  palette:
+    # Palette toggle for automatic
+    - media: "(prefers-color-scheme)"
+      scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
