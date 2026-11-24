@@ -1,10 +1,10 @@
 ## General
 - [Anki](https://apps.ankiweb.net/)
-- [Refold](https://refold.la/roadmap)
+- [Refold guide](https://refold.la/roadmap) ([simplified version](https://refold.la/simplified))
 
 ## Pali
 - [Digital Pali Reader](https://pali.sirimangalo.org/)
-- [Pāli Dictionary](https://dictionary.sutta.org)
+- [Pali Dictionary](https://dictionary.sutta.org)
 - [Pali Primer by Lily de Silva](https://buddhistuniversity.net/content/booklets/pali-primer_desilva)
 - [Teach yourself Pali by Ven. Sarada Maha Thero](https://archive.org/download/teach-yourself-pali-in-english/Teach%20Yourself%20Pali%20In%20English.pdf)
 - [Elementary Pali Course by Narada Thera](https://www.buddhistelibrary.org/library/view.php?adpath=108)
