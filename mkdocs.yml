@@ -1,6 +1,8 @@
 site_name: Buddhist Resources
 site_url: https://dharmarain.github.io/
 site_description: Project to gather together resources and information for Buddhists in one single place.
+repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: dharmarain.github.io
 theme:
   name: material
   palette: 
@@ -8,8 +10,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep orange
-      accent: teal
+      primary: blue grey
+      accent: amber
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -17,8 +19,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep orange
-      accent: teal
+      primary: blue grey
+      accent: amber
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -28,6 +30,8 @@ theme:
   language: en
   logo: assets/logo.svg
   favicon: assets/favicon.svg
+  icon:
+    repo: fontawesome/brands/git-alt
   features:
     - navigation.instant
     - navigation.instant.progress
